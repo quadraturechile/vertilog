@@ -39,7 +39,7 @@ export default function Header() {
           <Link href="#hero" className="flex items-center space-x-3">
             <div className="relative w-40 h-12">
               <Image
-                src="https://cdn.abacus.ai/images/15e44683-502a-4a71-b90e-6e32b1f5888e.png"
+                src="/images/logovertiloggoogle.png"
                 alt="VERTILOG Logo"
                 fill
                 className="object-contain"
