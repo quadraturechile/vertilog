@@ -37,7 +37,7 @@ export default function Header() {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <Link href="#hero" className="flex items-center space-x-3">
-            <div className="relative w-40 h-12">
+            <div className="relative w-56 h-16">
               <Image
                 src="/images/logovertiloggoogle.png"
                 alt="VERTILOG Logo"
