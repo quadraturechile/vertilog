@@ -49,7 +49,7 @@ export default function HeroSection() {
           >
             Vertical Logística
             <br />
-            <span className="text-[#95C11F]">Soluciones Modulares</span>
+            <span className="text-[#95C11F]">Soluciones Modulares a tu Empresa</span>
           </motion.h1>
 
           <motion.p
