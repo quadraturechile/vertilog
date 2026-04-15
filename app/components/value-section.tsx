@@ -43,7 +43,7 @@ export default function ValueSection() {
           >
             <div className="relative aspect-[4/3] rounded-lg overflow-hidden shadow-2xl">
               <Image
-                src="/images/img3_aerial_warehouse.jpeg"
+                src="/images/nuestrovaloragregado.jpeg"
                 alt="Vista aérea de instalaciones modulares VERTILOG"
                 fill
                 className="object-cover"
