@@ -8,22 +8,22 @@ import { Pickaxe, Package, Warehouse, Factory } from 'lucide-react'
 const specializations = [
   {
     icon: Pickaxe,
-    title: 'Minería y Cargas de Proyectos',
+    title: 'Minería - Cargas de Proyectos - Construcción - Transporte',
     description: 'Soluciones robustas para el sector minero y proyectos de gran envergadura'
   },
   {
     icon: Package,
-    title: 'Operadores Logísticos',
+    title: 'Operadores Logísticos - Retails - Centros de Distribución',
     description: 'Espacios flexibles para operaciones logísticas y distribución'
   },
   {
     icon: Warehouse,
-    title: 'Centros de Distribución',
+    title: 'Silvoagropecuario - Industrial - Manufactura',
     description: 'Infraestructura modular para centros de almacenamiento y distribución'
   },
   {
     icon: Factory,
-    title: 'Embotelladoras',
+    title: 'Vitivinícolas y Embotelladoras',
     description: 'Bodegas especializadas para plantas embotelladoras e industria alimentaria'
   },
 ]
