@@ -90,7 +90,7 @@ export default function SpecializationSection() {
           >
             <div className="relative aspect-[4/3] rounded-lg overflow-hidden shadow-2xl">
               <Image
-                src="/images/img2_exterior_warehouse.jpeg"
+                src="/images/especializacion.jpeg"
                 alt="Instalaciones exteriores de bodegas modulares VERTILOG"
                 fill
                 className="object-cover"
