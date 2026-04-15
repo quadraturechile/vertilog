@@ -130,8 +130,8 @@ export default function ContactSection() {
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-[#95C11F]" />
-                <a href="mailto:comercial@vertilog.cl" className="hover:text-[#95C11F] transition-colors break-all">
-                  comercial@vertilog.cl
+                <a href="mailto:jimunilla@vertilog.cl" className="hover:text-[#95C11F] transition-colors break-all">
+                  jimunilla@vertilog.cl
                 </a>
               </div>
               <div className="flex items-center gap-3">
