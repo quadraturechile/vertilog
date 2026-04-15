@@ -139,6 +139,28 @@ export default function ContactSection() {
                 <span>Santiago, RM</span>
               </div>
             </div>
+            
+            <h3 className="text-2xl font-bold mb-2">José Pablo Munilla</h3>
+            <p className="text-[#95C11F] font-semibold mb-6">Gerente Adm. y Finanzas</p>
+            
+            <div className="space-y-4">
+              <div className="flex items-center gap-3">
+                <Phone className="w-5 h-5 text-[#95C11F]" />
+                <a href="tel:+56995399943" className="hover:text-[#95C11F] transition-colors">
+                  +56 9 9539 9943
+                </a>
+              </div>
+              <div className="flex items-center gap-3">
+                <Mail className="w-5 h-5 text-[#95C11F]" />
+                <a href="mailto:jpmunilla@vertilog.cl" className="hover:text-[#95C11F] transition-colors break-all">
+                  jpmunilla@vertilog.cl
+                </a>
+              </div>
+              <div className="flex items-center gap-3">
+                <MapPin className="w-5 h-5 text-[#95C11F]" />
+                <span>Santiago, RM</span>
+              </div>
+            </div>
 
             <div className="mt-8 pt-8 border-t border-gray-700">
               <p className="text-sm text-gray-400 leading-relaxed">
