@@ -143,7 +143,7 @@ export default function ContactSection() {
               
             </div>
             <h3 className="text-2xl font-bold mb-2">José Pablo Munilla</h3>
-            <p className="text-[#95C11F] font-semibold mb-6">Gerente Adm. y Finanzas</p>
+            <p className="text-[#95C11F] font-semibold mb-6">Gerente General</p>
             
             <div className="space-y-4">
               <div className="flex items-center gap-3">
