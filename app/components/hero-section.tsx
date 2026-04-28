@@ -11,13 +11,15 @@ export default function HeroSection() {
       {/* Background Image with Parallax */}
       <div className="absolute inset-0 z-0">
         <div className="relative w-full h-full">
-          <Image
-            src="/images/img1_interior_warehouse.jpeg"
-            alt="Interior de bodega modular VERTILOG"
-            fill
-            className="object-cover"
-            priority
-          />
+          <video
+  autoPlay
+  loop
+  muted
+  playsInline
+  className="w-full h-full object-cover"
+>
+  <source src="/vertilog.mp4" type="video/mp4" />
+</video>
           <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/50 to-black/30" />
         </div>
       </div>
